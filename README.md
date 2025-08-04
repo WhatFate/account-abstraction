@@ -18,9 +18,8 @@ This repository provides a deep dive into smart-contract account abstraction wit
    - [zkSync Era](#zksync-era)
 8. [Security Considerations](#security-considerations)
 9. [Testing](#testing)
-10. [Gas & Performance](#gas--performance)
-11. [Future Enhancements](#future-enhancement-ideas)
-12. [License](#license)
+10. [Future Enhancements](#future-enhancement-ideas)
+11. [License](#license)
 
 ## Project Overview
 
@@ -213,3 +212,4 @@ Feel free to open issues or pull requests with additional ideas or detailed prop
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
